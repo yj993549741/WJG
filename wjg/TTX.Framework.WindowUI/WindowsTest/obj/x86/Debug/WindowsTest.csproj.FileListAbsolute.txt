@@ -1,0 +1,213 @@
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg01.jpg
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg02.jpg
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg03.jpg
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg04.jpg
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg05.jpg
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg06.jpg
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin.config
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\NoFlower.config
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\BlueSea.config
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\SunsetRed.config
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\KissOfAngel.config
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin.ini
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.exe
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.pdb
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.csprojResolveAssemblyReference.cache
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.winMain.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.Properties.Resources.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.csproj.GenerateResource.Cache
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.exe
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.pdb
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.exe.config
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.WindowUI.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\office.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\EntityFramework.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\NVelocity.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Spring.Core.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\log4net.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Common.Logging.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.WindowUI.pdb
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\office.xml
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\EntityFramework.xml
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\NVelocity.xml
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Spring.Core.xml
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\log4net.xml
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.frmList.resources
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.exe.config
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.exe
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.pdb
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg01.jpg
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg02.jpg
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg03.jpg
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg04.jpg
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg05.jpg
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg06.jpg
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin.config
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\NoFlower.config
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\BlueSea.config
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\SunsetRed.config
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\KissOfAngel.config
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin.ini
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.exe
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.pdb
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.WindowUI.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\office.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\EntityFramework.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\NVelocity.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Spring.Core.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\log4net.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\stdole.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Common.Logging.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.WindowUI.pdb
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\office.xml
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\EntityFramework.xml
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\NVelocity.xml
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Spring.Core.xml
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\log4net.xml
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.xml
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.csprojResolveAssemblyReference.cache
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.frmList.resources
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.winMain.resources
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.Properties.Resources.resources
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.csproj.GenerateResource.Cache
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg01.jpg
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg02.jpg
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg03.jpg
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg04.jpg
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg05.jpg
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg06.jpg
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin.config
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\NoFlower.config
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\BlueSea.config
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\SunsetRed.config
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\KissOfAngel.config
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin.ini
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.exe.config
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.exe
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.pdb
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.WindowUI.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\office.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\EntityFramework.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\NVelocity.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Spring.Core.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\log4net.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\stdole.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Common.Logging.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.WindowUI.pdb
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\office.xml
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\EntityFramework.xml
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\NVelocity.xml
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Spring.Core.xml
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\log4net.xml
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.xml
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.csprojAssemblyReference.cache
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.frmList.resources
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.winMain.resources
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.Properties.Resources.resources
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.csproj.GenerateResource.cache
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.csproj.CoreCompileInputs.cache
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.csproj.CopyComplete
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.exe
+D:\YJ\winform.controls-master\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.pdb
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg01.jpg
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg02.jpg
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg03.jpg
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg04.jpg
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg05.jpg
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg06.jpg
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin.config
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\NoFlower.config
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\BlueSea.config
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\SunsetRed.config
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\KissOfAngel.config
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin.ini
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.exe.config
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.exe
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.pdb
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.WindowUI.dll
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.dll
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\EntityFramework.dll
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\NVelocity.dll
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Spring.Core.dll
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\log4net.dll
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Common.Logging.dll
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.dll
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.WindowUI.pdb
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\EntityFramework.xml
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\NVelocity.xml
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Spring.Core.xml
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\log4net.xml
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.xml
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.csprojAssemblyReference.cache
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.frmList.resources
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.winMain.resources
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.Properties.Resources.resources
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.csproj.GenerateResource.cache
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.csproj.CoreCompileInputs.cache
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.csproj.CopyComplete
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.exe
+G:\外加工人员管理系统\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.pdb

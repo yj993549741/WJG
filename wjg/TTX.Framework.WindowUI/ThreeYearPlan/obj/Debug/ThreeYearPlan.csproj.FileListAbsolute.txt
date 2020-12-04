@@ -1,0 +1,5 @@
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\ThreeYearPlan\obj\Debug\ThreeYearPlan.csproj.ResolveComReference.cache
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\ThreeYearPlan\obj\Debug\ThreeYearPlan.Form1.resources
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\ThreeYearPlan\obj\Debug\ThreeYearPlan.Properties.Resources.resources
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\ThreeYearPlan\obj\Debug\ThreeYearPlan.csproj.GenerateResource.Cache
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\ThreeYearPlan\bin\Debug\ThreeYearPlan.exe.config

@@ -1,0 +1,210 @@
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.SocksHttpWebRequest 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.SocksHttpWebResponse 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.DrawTile 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.FastResourceLock 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.NativeMethods 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.Authentication.AuthMethod 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.Authentication.AuthNone 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.Authentication.AuthUserPass 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.IAsyncProxyResult 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.ProxyException 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.ProxyTypes 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.ProxySocket 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.SocksHandler 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.Socks4Handler 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.Socks5Handler 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.HandShakeComplete 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.TileHttpHost 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_DarbAE_Q2_2011_NAVTQ_Eng_V5_MapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.BingMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.BingSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.BingHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_StreetMap_World_2D_MapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_Imagery_World_2D_MapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_ShadedRelief_World_2D_MapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_Topo_US_2D_MapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_World_Physical_MapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_World_Shaded_Relief_MapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_World_Street_MapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_World_Terrain_Base_MapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_World_Topo_MapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechGeographicMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechHistoryMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechTuristMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechTuristWinterMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.DirectionsProvider 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CloudMadeMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.SwedenMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.WikiMapiaMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechHistoryMapProviderOld 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechHybridMapProviderOld 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechSatelliteMapProviderOld 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechTuristMapProviderOld 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechMapProviderOld 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.TurkeyMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.MapBenderWMSProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.SpainMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.LatviaMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.LithuaniaReliefMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.LithuaniaHybridOldMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.LithuaniaHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.LithuaniaOrtoFotoOldMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.LithuaniaOrtoFotoMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.Lithuania3dMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.LithuaniaMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.LithuaniaTOP50 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenStreet4UMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenStreetMapQuestSatteliteProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenStreetMapQuestHybridProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenStreetMapQuestProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenCycleTransportMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenCycleLandscapeMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.YandexHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.YandexSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.YandexMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OviHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OviTerrainMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OviSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OviMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.NearHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.NearSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.NearMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleKoreaHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleKoreaSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleKoreaMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleChinaTerrainMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleChinaHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleChinaSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleChinaMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleTerrainMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.YahooHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.YahooSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.YahooMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenSeaMapHybridProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenCycleMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenStreetMapProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GMapProviders 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.EmptyProvider 生成存根: 类型没有系列可见的构造函数。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.EmptyWebProxy 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GDirectionStep 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.CacheQueueItem 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.CacheUsage 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.FastReaderWriterLock 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.KiberTileCache 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.PureImageProxy 生成存根: method GMap.NET.PureImage GMap.NET.PureImageProxy.FromStream(System.IO.Stream stream) unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.LoadTask 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.LoadTaskComparer 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.RawTile 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.RawTileComparer 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Projections.MercatorProjectionYandex 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Extensions 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GeoCoderStatusCode 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.DirectionsStatusCode 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GpsLog 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.FixQuality 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.FixType 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.FixSelection 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.fixType 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.LanguageType 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.AccessMode 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.PositionChanged 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.TileLoadComplete 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.TileLoadStart 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.TileCacheComplete 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.TileCacheStart 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.TileCacheProgress 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapDrag 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapZoomChanged 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapTypeChanged 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.EmptyTileError 生成存根: 类型已密封。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GPoint 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GPointComparer 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GRect 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MouseWheelZoomType 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Properties.Resources 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.CacheLocator 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Cache 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.CacheType 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Core 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Tile 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.TileMatrix 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Placemark 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.PointLatLng 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.RectLatLng 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.RenderMode 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GSize 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.SizeLatLng 生成存根: 类型是一个值类型。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Stuff 生成存根: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 <PrivateImplementationDetails>{14473A85-A404-4962-8DB0-A91655AC02BF} 生成存根: 类型不受支持，因为存在内部限制。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.SocksHttpWebRequest 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.SocksHttpWebResponse 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.DrawTile 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.FastResourceLock 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.NativeMethods 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.Authentication.AuthMethod 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.Authentication.AuthNone 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.Authentication.AuthUserPass 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.IAsyncProxyResult 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.ProxyException 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.ProxyTypes 生成填充码: 类型是一个枚举。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.ProxySocket 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.SocksHandler 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.Socks4Handler 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.Socks5Handler 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 Org.Mentalis.Network.ProxySocket.HandShakeComplete 生成填充码: 类型是一个委托。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.TileHttpHost 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.RoutingProvider 生成填充码: 类型是一个接口。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GeocodingProvider 生成填充码: 类型是一个接口。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.DirectionsProvider 生成填充码: 类型是一个接口。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 System.IO.Compression.ZipStorer+Compression 生成填充码: 类型是一个枚举。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.PureImageCache 生成填充码: 类型是一个接口。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.CacheQueueItem 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.CacheUsage 生成填充码: 类型是一个枚举。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.FastReaderWriterLock+NativeMethods 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.KiberTileCache 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.LoadTask 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.LoadTaskComparer 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.RawTile 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.RawTileComparer 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Projections.MercatorProjectionYandex 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 正在跳过 method !!0 GMap.NET.Extensions.GetStruct(System.Runtime.Serialization.SerializationInfo info, System.String key, !!0 defaultValue)，method !!0 GMap.NET.Extensions.GetStruct(System.Runtime.Serialization.SerializationInfo info, System.String key, !!0 defaultValue) unstubbable: 不受支持的约束类型
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 正在跳过 method System.Nullable`1<!!0> GMap.NET.Extensions.GetStruct(System.Runtime.Serialization.SerializationInfo info, System.String key, System.Nullable`1<!!0> defaultValue)，method System.Nullable`1<!!0> GMap.NET.Extensions.GetStruct(System.Runtime.Serialization.SerializationInfo info, System.String key, System.Nullable`1<!!0> defaultValue) unstubbable: 不受支持的约束类型
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GeoCoderStatusCode 生成填充码: 类型是一个枚举。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.DirectionsStatusCode 生成填充码: 类型是一个枚举。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.FixQuality 生成填充码: 类型是一个枚举。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.FixType 生成填充码: 类型是一个枚举。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.FixSelection 生成填充码: 类型是一个枚举。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.fixType 生成填充码: 类型是一个枚举。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.LanguageType 生成填充码: 类型是一个枚举。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Interface 生成填充码: 类型是一个接口。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.AccessMode 生成填充码: 类型是一个枚举。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.PositionChanged 生成填充码: 类型是一个委托。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.TileLoadComplete 生成填充码: 类型是一个委托。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.TileLoadStart 生成填充码: 类型是一个委托。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.TileCacheComplete 生成填充码: 类型是一个委托。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.TileCacheStart 生成填充码: 类型是一个委托。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.TileCacheProgress 生成填充码: 类型是一个委托。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapDrag 生成填充码: 类型是一个委托。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapZoomChanged 生成填充码: 类型是一个委托。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapTypeChanged 生成填充码: 类型是一个委托。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.EmptyTileError 生成填充码: 类型是一个委托。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GPointComparer 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Singleton`1+SingletonCreator 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MouseWheelZoomType 生成填充码: 类型是一个枚举。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Properties.Resources 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.CacheLocator 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Cache 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.CacheType 生成填充码: 类型是一个枚举。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Core 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Tile+<get_Overlays>d__0 生成填充码: 类型不受支持，因为存在内部限制。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.TileMatrix 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GMaps+StringWriterExt 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.RenderMode 生成填充码: 类型是一个枚举。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Stuff 生成填充码: 类型对 exported or assembly(GMap.NET.Core.Fakes) 不可见。
+E:\YJ\winform.controls-master\TTX.Framework.WindowUI\TX.Framework.WindowUI\Fakes\GMap.NET.Core.fakes : warning : 无法为 <PrivateImplementationDetails>{14473A85-A404-4962-8DB0-A91655AC02BF} 生成填充码: 类型不受支持，因为存在内部限制。
